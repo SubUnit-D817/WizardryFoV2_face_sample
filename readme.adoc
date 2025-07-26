@@ -1,18 +1,18 @@
 = Wizardry外伝 五つの試練　カスタムポートレイトサンプル
 :author: SubUnit-D817
 
-== 1.このMODについて
+== 1.このリポジトリについて
 　これはWizardry外伝 五つの試練で使用するカスタムポートレイトです。 +
 　デフォルトのキャラクタに対応したポートレイトとなっています。
  
 == 2.できること
 * デフォルトキャラクタのポートレイト設定 +
-　　face1: Dwa-G-Fig ドワーフ/善/戦士/男 +
-　　face2: Hum-G-Sam 人間/善/侍/男 +
-　　face3: Gno-G-Pri ノーム/善/僧侶/女 +
-　　face4: Hob-N-The ホブ/中立/盗賊/女 +
-　　face5: Elf-N-Mag エルフ/中立/魔法使い/女 +
-　　face6: Hum-G-Bis 人間/善/ビショップ/男 +
+face1: Dwa-G-Fig ドワーフ/善/戦士/男 +
+face2: Hum-G-Sam 人間/善/侍/男 +
+face3: Gno-G-Pri ノーム/善/僧侶/女 +
+face4: Hob-N-The ホブ/中立/盗賊/女 +
+face5: Elf-N-Mag エルフ/中立/魔法使い/女 +
+face6: Hum-G-Bis 人間/善/ビショップ/男 +
 
  
 == 3.使い方
@@ -20,7 +20,7 @@
 * ZIPファイルを解凍し、ドキュメントフォルダ内の下記フォルダに格納してください。 +
 ※設定を変えている場合は対応するフォルダに格納してください。 +
 ※他のカスタムポートレイトを導入している場合は、格納するフォルダ名を適切に変更してください。 +
-\\\59studio\WizardryFoV2\face\face1～6 +
+.\59studio\WizardryFoV2\face\face1～6 +
 
 == 4.更新履歴
 [cols="1,1,10" grid=all options="autowidth"]
